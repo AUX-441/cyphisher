@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Cyphisher Banner](https://raw.githubusercontent.com/AUX-441/cyphisher/main/tipme/banner.png)
+![Cyphisher Banner](https://raw.githubusercontent.com/AUX-441/cyphisher/main/assets/banner.png)
 *Professional Cybersecurity Education Tool*
 
 [![Python Version](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://python.org)
@@ -364,7 +364,7 @@ UQDt0vlknHD77sHysWRuEV5i79MivfEZGN_CdZH16oj1WnRJ
 <div align="center">
 
 **TON Wallet Address:**
-![TON QR Code](https://raw.githubusercontent.com/AUX-441/cyphisher/main/tipme/TON.jpg)
+![TON QR Code](https://raw.githubusercontent.com/AUX-441/cyphisher/main/tipme/BNB.jpg)
 
 **Ethereum/BNB Address:**
 ![ETH/BNB QR Code](https://raw.githubusercontent.com/AUX-441/cyphisher/main/tipme/ETH.jpg)
