@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Cyphisher Banner](https://raw.githubusercontent.com/AUX-441/cyphisher/blob/main/assets/cypshisher.PNG))
+![Cyphisher Banner](https://raw.githubusercontent.com/AUX-441/cyphisher/main/assets/cypshisher.PNG)
 *Professional Cybersecurity Education Tool*
 
 [![Python Version](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://python.org)
