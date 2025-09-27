@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Cyphisher Banner](https://raw.githubusercontent.com/AUX-441/cyphisher/main/assets/cyphisher.png)
+![Cyphisher Banner](https://raw.githubusercontent.com/AUX-441/cyphisher/main/assets/cyphisher.PNG)
 *Professional Cybersecurity Education Tool*
 
 [![Python Version](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://python.org)
@@ -260,20 +260,6 @@ cyphisher/
 ├── tipme/                 # Support information
 └── Automated data directories
 ```
-
-## 📸 Screenshots
-
-### 🖥️ Professional Interface
-![Main Menu](https://raw.githubusercontent.com/AUX-441/cyphisher/main/tipme/main-interface.png)
-*Advanced terminal interface with categorized template selection*
-
-### 🌐 Cloudflare Integration
-![Cloudflare Tunnel](https://raw.githubusercontent.com/AUX-441/cyphisher/main/tipme/cloudflare-demo.png)
-*Automatic secure tunnel establishment with public URL generation*
-
-### 📊 Template Gallery
-![Template View](https://raw.githubusercontent.com/AUX-441/cyphisher/main/tipme/templates-view.png)
-*Organized template selection with realism ratings*
 
 ## 🔒 Legal Disclaimer
 
